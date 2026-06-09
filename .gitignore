@@ -1,3 +1,4 @@
-﻿node_modules/
+﻿ password-database
+node_modules/
 .next/
-.env.local  password_database
+.env.local  
