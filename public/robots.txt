@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Bloquer l'admin
+Disallow: /admin
+
+Sitemap: https://www.makmodestyle.com/sitemap.xml
